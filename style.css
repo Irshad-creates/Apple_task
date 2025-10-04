@@ -54,3 +54,30 @@ html, body {
     font-size: 20px;
     color: black;
 }
+
+/* hero section */
+
+.hero-header{
+    height: 90%;
+    width: 100%;
+    padding-top: 100px  ;
+    
+    background-image: url(/imgs/hero_iphone_17.jpg);
+    background-position: center;
+    background-size: cover;
+
+    text-align: center;
+    color: white;
+}
+
+.hero-header h1, h2{
+    color: white;
+    font-family: apple pro;
+}
+.hero-header h1{
+    font-size: 55px;
+    font-weight: 600;
+}
+.hero-header #h2{
+    
+}
